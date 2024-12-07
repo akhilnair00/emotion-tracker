@@ -1,5 +1,0 @@
-transformers
-torch
-nltk
-flask
-boto3
