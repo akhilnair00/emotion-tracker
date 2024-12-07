@@ -3,8 +3,8 @@ name: Update S3 and Refresh Data
 on:
   push:
     branches:
-      - main  # Trigger workflow on changes to the main branch
-  workflow_dispatch: # Allows manual triggering
+      - main
+  workflow_dispatch:
 
 jobs:
   update-s3:
@@ -30,4 +30,4 @@ jobs:
         AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
         AWS_DEFAULT_REGION: us-east-1
       run: |
-        python your_script.py  # Replace with your script's name
+        python ep_caller.py
