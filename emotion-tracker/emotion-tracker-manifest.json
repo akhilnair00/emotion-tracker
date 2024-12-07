@@ -1,0 +1,14 @@
+{
+    "fileLocations": [
+        {
+            "URIs": [
+                "s3://emotiontrackerbucket/results.csv"
+            ]
+        }
+    ],
+    "globalUploadSettings": {
+        "format": "CSV",
+        "delimiter": ",",
+        "containsHeader": "true"
+    }
+}

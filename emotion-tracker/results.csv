@@ -1,6 +1,40 @@
-Sentence,Emotion,Score
-"Today, I woke up really tired.",neutral,0.6555708646774292
-I was stressed for a meeting I had with some really top people.,nervousness,0.26490718126296997
-The meeting went well and so did the rest of the workday.,admiration,0.45832616090774536
-"After that, I had an awesome workout with Jisha.",admiration,0.7598141431808472
-Came back home and worked on my project for the rest of the day.,neutral,0.8797369599342346
+Sentence,Emotion,Score,Timestamp
+"Today, I woke up really tired.",neutral,0.6555708646774292,
+I was stressed for a meeting I had with some really top people.,nervousness,0.2649071812629699,
+The meeting went well and so did the rest of the workday.,admiration,0.4583261609077453,
+"After that, I had an awesome workout with Jisha.",admiration,0.7598141431808472,
+Came back home and worked on my project for the rest of the day.,neutral,0.8797369599342346,
+I felt happy today.,joy,0.87152,2024-12-06 20:19:04
+The news made me feel anxious.,nervousness,0.64067,2024-12-06 20:19:04
+Spending time with my family brought me joy.,joy,0.88247,2024-12-06 20:19:04
+I flew to spain today and met my hero!,excitement,0.5794618129730225,2024-12-06 20:21:59
+He was so funny and charming and i was so happy.,joy,0.8093386888504028,2024-12-06 20:21:59
+I ate pretty good food and got a little drunk towards the end of the night.,admiration,0.8979329466819763,2024-12-06 20:21:59
+"I hold an MD from Stanford and worked as a cancer researcher at a biotech firm in San Carlos, California.",neutral,0.633618950843811,2024-12-06 20:40:46
+My husband has his doctorate from Stanford in statistics and worked at Google through the 2004 IPO and stayed until his lock-out period was over.,neutral,0.7929818630218506,2024-12-06 20:40:46
+"In 2016, we were married.",neutral,0.65731281042099,2024-12-06 20:40:46
+"The trigger for marriage was the Trump election, specifically immigration and healthcare.",neutral,0.7478715777397156,2024-12-06 20:40:46
+"My husband's Dutch, of Moroccan background and I'm a breast cancer survivor.",sadness,0.5565069913864136,2024-12-06 20:40:46
+"His sister was in over her head regarding raising a child while her partner and she worked long hours, so he offered to raise the child, from a year old, and we legally adopted her.",neutral,0.9190412759780884,2024-12-06 20:40:46
+"After marriage, we settled in Barcelona, where husband has owned a 2-bedroom, 1 bathroom condominium, since 2006.",neutral,0.5020620822906494,2024-12-06 20:40:46
+"The unemployment rate nationally is 16.8% and regionally it's 12.19%, so he figured he'd relax and spend time with (what we've accepted to be) our child.",neutral,0.908375918865204,2024-12-06 20:40:46
+My intent was to relax in any case.,neutral,0.4157162308692932,2024-12-06 20:40:46
+"So, we're both not working.",neutral,0.518058180809021,2024-12-06 20:40:46
+Had my heart broken today.,sadness,0.9029144644737244,2024-12-06 20:57:34
+"Thought I had found someone special, but they didn't feel the same.",neutral,0.3932523131370544,2024-12-06 20:57:34
+"Spent the evening curled up on the couch, alternating between tears and trying to remind myself that this too shall pass.",neutral,0.499567300081253,2024-12-06 20:57:34
+"As the clock struck midnight, I stood on my balcony and watched the fireworks burst in the sky.",excitement,0.572879433631897,2024-12-06 20:58:03
+"Felt a sense of hope for the new year, even with all the challenges I faced in the last one.",optimism,0.8946170806884766,2024-12-06 20:58:03
+"Resolved to be more kind to myself in the days ahead.""",optimism,0.340522438287735,2024-12-06 20:58:03
+It was scary.,fear,0.8959231972694397,2024-12-06 21:39:58
+It was intimidating.,fear,0.8377788662910461,2024-12-06 21:39:58
+I went to work and I got pulled into a strange conversation with someone way high up the ladder.,neutral,0.3964191377162933,2024-12-06 21:39:58
+It made me excited.,excitement,0.8196683526039124,2024-12-06 21:39:58
+I guess I was a little nervous but also excited.,excitement,0.5599400401115417,2024-12-06 21:39:58
+Costco it was fun.,joy,0.7385438680648804,2024-12-06 21:39:58
+Worked out with my homie joel.,neutral,0.9076045751571656,2024-12-06 21:39:58
+I love my homie joel so much.,love,0.9578555822372437,2024-12-06 21:45:20
+I lust after him.,love,0.2713585495948791,2024-12-06 21:45:20
+I finished my final project for my class!,joy,0.24044856429100037,2024-12-07 12:04:15
+I felt light with joy!,joy,0.895350456237793,2024-12-07 12:04:15
+But I am very stressed for work!,nervousness,0.30081629753112793,2024-12-07 12:04:15
